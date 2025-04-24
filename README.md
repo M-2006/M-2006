@@ -36,7 +36,7 @@ I believe:
 ---
 
 ### 🔗 Connect With Me
-- 🌐 [My Portfolio](https://m-2006.github.io/portfolio-Muhamet-Maliqi/Pages/index.html)
+- 🌐 [My Portfolio]([https://m-2006.github.io/](https://m-2006.github.io/maliqi-portfolio/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhamet-maliqi-77825a299)
 - 📸 [Instagram](https://www.instagram.com/muhamet_meti/)
 

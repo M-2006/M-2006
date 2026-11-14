@@ -4,7 +4,8 @@
 ---
 
 ### 💬 About Me
-I'm a passionate developer based in **Ferizaj**, currently working at **Concentrix**, as a Trainer & Quality Manager 
+I'm a passionate developer based in **Ferizaj**, currently working at **Concentrix**, as a Trainer & Quality Manager.
+
 I believe:
 
 > "Lines of code are seeds of change - what we build today shapes the world tomorrow."
